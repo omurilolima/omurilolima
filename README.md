@@ -6,7 +6,7 @@
 </div>
 
 ### About me
-Junior Software Developer studying Full-stack Software Development at the Code Institute. Proficient in HTML, CSS, Javascript and Python. I have 12 years of experience creating software products as a Project Manager / Product Owner in tech companies. I am a valuable team player with strong communication skills and effective problem-solving abilities. I am eager to switch careers and mature my software development skills in an exciting engineering team where I can grow and contribute!
+Junior Software Developer studying Full-stack Software Development at the Code Institute. Proficient in HTML, CSS, Javascript and Python. I have <strong>12 years of experience creating software products as a Project Manager / Product Owner in tech companies</strong>. I am a valuable team player with strong communication skills and effective problem-solving abilities. I am eager to switch careers and mature my software development skills in an exciting engineering team where I can grow and contribute!
 
 - MSc in Software Engineering.
 - Certified Scrum Master CSM (Scrum Alliance) 
