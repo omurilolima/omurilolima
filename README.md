@@ -18,9 +18,4 @@ Junior Software Developer studying Full-stack Software Development at the Code I
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
-
 <br />
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omurilolima&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&layout=default" alt="Murilo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omurilolima&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
