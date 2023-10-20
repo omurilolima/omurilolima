@@ -6,7 +6,7 @@
 </div>
 
 ### About me
-Junior Software Developer studying Full-stack Software Development at the Code Institute. Proficient in HTML, CSS, Javascript and Python. I have <strong>12 years of experience creating software products as a Project Manager / Product Owner in tech companies</strong>. I am a valuable team player with strong communication skills and effective problem-solving abilities. I am eager to switch careers and mature my software development skills in an exciting engineering team where I can grow and contribute!
+Bilingual fluent in Portuguese and English with a master's degree in Software Engineering. Aiming to transition to an entry-level software engineer role after +10 years of experience as a Technical Product Manager in Brazil. I hold a proven track record of successfully managing and leading multidisciplinary teams, setting objectives and key results and contributing to product planning and delivery. With expertise in web application frameworks, user experience and agile methodologies I  am a highly problem-solving, resilient and innovative professional.
 
 - MSc in Software Engineering.
 - Certified Scrum Master CSM (Scrum Alliance) 
