@@ -6,7 +6,7 @@
 </div>
 
 ### About me
-Portuguese and English speaker with a master's degree in Software Engineering. <strong>Aiming to transition to an entry-level software engineer role</strong> after +10 years of experience as a Technical Product Manager in Brazil. I hold a proven track record of successfully managing and leading multidisciplinary teams, setting objectives and key results and contributing to product planning and delivery. With expertise in web application frameworks, user experience and agile methodologies I  am a highly problem-solving, resilient and innovative professional.
+Portuguese and English speaker with a master's degree in Software Engineering. <strong>Aiming to transition to an entry-level software engineer role</strong> after +10 years of experience as a Technical Product Owner in Brazil. I hold a proven track record of successfully managing and leading multidisciplinary teams, setting objectives and key results and contributing to product planning and delivery. With expertise in web application frameworks, user experience and agile methodologies I  am a highly problem-solving, resilient and innovative professional.
 
 - MSc in Software Engineering.
 - Certified Scrum Master CSM (Scrum Alliance) 
