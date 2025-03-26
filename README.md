@@ -6,9 +6,11 @@
 </div>
 
 ### About me
-Portuguese and English speaker with a master's degree in Software Engineering. <strong>Aiming to transition to an entry-level software engineer role</strong> after +10 years of experience as a Technical Product Owner in Brazil. I hold a proven track record of successfully managing and leading multidisciplinary teams, setting objectives and key results and contributing to product planning and delivery. With expertise in web application frameworks, user experience and agile methodologies I  am a highly problem-solving, resilient and innovative professional.
+Hey! I am <b>Murilo</b>, a software engineer from Recife who lives in Dublin. <strong>Aiming to transition to an entry-level software engineer role</strong> after +10 years of experience as a Technical Product Owner in Brazil. I hold a Master’s degree in Software Engineering and hands-on experience building full-stack applications using <b>JavaScript, Python, Django, and modern front-end technologies</b>. Proven ability to collaborate with cross-functional teams, translate business requirements into scalable solutions, and deliver high-quality user experiences.
 
-- MSc in Software Engineering.
+- <b>MSc in Software Engineering</b> (Cesar School).
+- <b>Full-Stack Software Development</b> Diploma (University College Dublin)
+- Atlassian Agile Project Management Professional Certificate
 - Certified Scrum Master CSM (Scrum Alliance) 
 - Certified Team Kanban Practitioner - TKP (Kanban University).
 
