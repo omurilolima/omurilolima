@@ -13,7 +13,7 @@ With over a decade of experience as a Technical Product Owner in Brazil, I'm now
 ## 🌟 Featured Projects  
 
 - **[Guitar Store](https://github.com/omurilolima/guitar-store)** – A full-stack e-commerce platform for buying and selling guitars, built with **React, Django, and PostgreSQL**, featuring authentication, shopping cart, and secure payments.  
-- **[Games Hub](https://github.com/omurilolima/games-hub)** – A dynamic gaming discovery platform developed with **React and RAWG API**, allowing users to explore, filter, and find details about thousands of games.  
+- **[Games Hub](https://github.com/omurilolima/game-hub)** – A dynamic gaming discovery platform developed with **React and RAWG API**, allowing users to explore, filter, and find details about thousands of games.  
 
 ## 🏅 Education  
 
