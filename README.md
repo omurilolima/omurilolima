@@ -37,3 +37,5 @@ I'm actively seeking opportunities to contribute as a software developer, bringi
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omurilolima&layout=compact)
