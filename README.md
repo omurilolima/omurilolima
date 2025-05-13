@@ -2,7 +2,7 @@
 
 🚀 **Software Developer | Transforming Ideas into Code**  
 
-With over a decade of experience as a Technical Product Owner in Brazil, I'm now seeking my passion for technology to work as a software developer. Holding a <code>Master's degree in Software Engineering</code>, I've developed and deployed full-stack applications utilizing:  
+With over a decade of experience as a Technical Product Owner, I'm now seeking my passion for technology to work as a software developer. Holding a <code>Master's degree in Software Engineering</code>, I've developed and deployed full-stack applications utilizing:  
 
 - **Technologies:**	JavaScript, Python, SQL, HTML5, CSS3
 - **Frameworks / Libraries:**	React, Typescript, Django, jQuery, Bootstrap, Flask
