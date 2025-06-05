@@ -1,6 +1,13 @@
 ## 👋 Hello, I'm Murilo Lima  
 
-🚀 **Software Developer | Transforming Ideas into Code**  
+
+🚀 **Software Developer | Transforming Ideas into Code**
+    <img align="center" alt="Javascript" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Python" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center" alt="CSS" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 
 With over a decade of experience as a Technical Product Owner, I'm now seeking my passion for technology to work as a software developer. Holding a <code>Master's degree in Software Engineering</code>, I've developed and deployed full-stack applications utilizing:  
 
@@ -18,23 +25,19 @@ With over a decade of experience as a Technical Product Owner, I'm now seeking m
 
 ## 🏅 Education  
 
-- **MSc in Software Engineering** (Cesar School).
-- **Full-Stack Software Development** Diploma (University College Dublin)
-- **Atlassian Agile Project Management** Professional Certificate (Atlassian)
-- **Certified Scrum Master CSM** (Scrum Alliance) 
-- **Certified Team Kanban Practitioner** - TKP (Kanban University).
+- **Full Stack Software Development** | University College Dublin, Ireland | 2023
+- **MSc in Software Engineering** | Cesar School, Brazil | 2022
+- **MBA in Digital Marketing** | Estácio de Sá University, Brazil | 2012
+- **BA in Information Management Systems** | UniNassau, Brazil | 2009
 
-## 🎯 Career Transition  
+## 🎯 Certifications  
+- **Atlassian Agile Project Management** Professional Certificate | Atlassian | 2025
+- **Product Management** | Produtos Incríveis | 2020
+- **Team Kanban Practitioner** | Kanban University | 2019.
+- **Certified Scrum Product Owner** | Scrum Institute | 2019.
+- **PMP® Certification Training Course** | PMI | 2018
+- **Certified Scrum Master (CSM)**, Scrum Alliance | 2017
+
+## ✅ Career Transition  
 
 I'm actively seeking opportunities to contribute as a software developer, bringing together my project management expertise and technical skills to build impactful software solutions.  
-
----
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
-<br />
