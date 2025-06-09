@@ -9,13 +9,13 @@
   <img align="center" alt="CSS" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 
-With over a decade of experience as a Technical Product Owner, I'm now seeking my passion for technology to work as a software developer. Holding a <code>Master's degree in Software Engineering</code>, I've developed and deployed full-stack applications utilizing:  
+With 10+ years of experience as a Technical Product Owner in Brazil, I’m now pursuing my passion for building software by transitioning into a Software Developer role. I hold a <code>Master’s in Software Engineering</code> and recently completed a Full Stack program at UCD, where I’ve been developing modern web applications using Python, Django, React, TypeScript, and PostgreSQL.
 
-- **Technologies:**	JavaScript, Python, SQL, HTML5, CSS3
-- **Frameworks / Libraries:**	React, Typescript, Django, jQuery, Bootstrap, Flask
-- **Databases:** PostgreSQL, ElephantSQL, SQLite
-- **Cloud Platforms:** AWS, Google Cloud, Heroku
-- **Other Tools:** Stripe API, Google Apps, Git, CI/CD, Jira
+- **Languages**: JavaScript, Python, SQL, HTML5, CSS3
+- **Frameworks/Libraries**: React, TypeScript, Django, Flask, jQuery, Bootstrap
+- **Databases**: PostgreSQL, SQLite, ElephantSQL
+- **Cloud/DevOps**: AWS, Google Cloud, Heroku
+- **Other Tools**: Stripe API, Git, CI/CD, Google Apps, Jira
 
 ## 🌟 Featured Projects  
 
