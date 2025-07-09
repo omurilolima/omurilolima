@@ -19,8 +19,8 @@ With 10+ years of experience as a Technical Product Owner in Brazil, I’m now p
 
 ## 🌟 Featured Projects  
 
+- **[Games Hub](https://github.com/omurilolima/game-hub2/)** – A dynamic gaming discovery platform developed with **React, Typescript and RAWG API**, allowing users to explore, filter, and find details about thousands of games.
 - **[Guitar Store](https://github.com/omurilolima/guitar-store)** – A full-stack e-commerce platform for buying and selling guitars, built with **Python, Javascript, Django, and PostgreSQL**, featuring authentication, shopping cart, and secure payments.  
-- **[Games Hub](https://github.com/omurilolima/game-hub)** – A dynamic gaming discovery platform developed with **React, Typescript and RAWG API**, allowing users to explore, filter, and find details about thousands of games.
 - **[The Wine Bar](https://github.com/omurilolima/the-wine-bar)** – A comprehensive website for a wine-specialized restaurant based in Dublin, Ireland. Developed with **HTML and CSS**.
 
 ## 🏅 Education  
