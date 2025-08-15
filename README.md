@@ -38,6 +38,3 @@ With 10+ years of experience as a Technical Product Owner in Brazil, I’m now p
 - **PMP® Certification Training Course** | PMI | 2018
 - **Certified Scrum Master (CSM)**, Scrum Alliance | 2017
 
-## ✅ Career Transition  
-
-I'm actively seeking opportunities to contribute as a software developer, bringing together my project management expertise and technical skills to build impactful software solutions.  
