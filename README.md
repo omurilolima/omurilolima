@@ -9,7 +9,7 @@
   <img align="center" alt="CSS" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 
-With 10+ years of experience as a Technical Product Owner in Brazil, I’m now pursuing my passion for building software by transitioning into a Software Developer role. I hold a <code>Master’s in Software Engineering</code> and recently completed a Full Stack program at UCD, where I’ve been developing modern web applications using Python, Django, React, TypeScript, and PostgreSQL.
+With 10+ years of experience as a Technical Product Owner in Brazil, I’m now pursuing my passion for building software by transitioning into a Software Developer role. I hold a <code>Master’s in Software Engineering</code> and recently completed a Full Stack program at UCD, where I developed modern web applications using Python, Django, React, TypeScript, and PostgreSQL.
 
 - **Languages**: JavaScript, Python, SQL, HTML5, CSS3
 - **Frameworks/Libraries**: React, TypeScript, Django, Flask, jQuery, Bootstrap
@@ -20,7 +20,7 @@ With 10+ years of experience as a Technical Product Owner in Brazil, I’m now p
 ## 🌟 Featured Projects  
 
 - **[Games Hub](https://github.com/omurilolima/game-hub2/)** – A dynamic gaming discovery platform developed with **React, Typescript and RAWG API**, allowing users to explore, filter, and find details about thousands of games.
-- **[Guitar Store](https://github.com/omurilolima/guitar-store)** – A full-stack e-commerce platform for buying and selling guitars, built with **Python, Javascript, Django, and PostgreSQL**, featuring authentication, shopping cart, and secure payments.  
+- **[Guitar Store](https://github.com/omurilolima/guitar-store)** – A full-stack e-commerce platform for buying and selling guitars, built with **Python, JavaScript, Django, and PostgreSQL**, featuring authentication, shopping cart, and secure payments.  
 - **[The Wine Bar](https://github.com/omurilolima/the-wine-bar)** – A comprehensive website for a wine-specialized restaurant based in Dublin, Ireland. Developed with **HTML and CSS**.
 
 ## 🏅 Education  
