@@ -2,11 +2,14 @@
 
 
 🚀 **Software Developer | Transforming Ideas into Code**
-    <img align="center" alt="Javascript" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Python" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="CSS" height="22" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<p>
+    <img align="center" alt="Typescript" height="22" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="React Native" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/500px-React-icon.svg.png">
+    <img align="center" alt="Javascript" height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Python" height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="HTML" height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
 
 
 With 10+ years of experience as a Technical Product Owner in Brazil, I’m now pursuing my passion for building software by transitioning into a Software Developer role. I hold a <code>Master’s in Software Engineering</code> and recently completed a Full Stack program at UCD, where I developed modern web applications using Python, Django, React, TypeScript, and PostgreSQL.
